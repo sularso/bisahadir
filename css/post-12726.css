@@ -1,0 +1,87 @@
+.elementor-12726 .elementor-element.elementor-element-624bf38>.elementor-container {
+	max-width: 750px;
+}
+.elementor-12726 .elementor-element.elementor-element-624bf38, .elementor-12726 .elementor-element.elementor-element-624bf38>.elementor-background-overlay {
+	border-radius: 0px 0px 0px 0px;
+}
+.elementor-12726 .elementor-element.elementor-element-a97d94f>.elementor-element-populated, .elementor-12726 .elementor-element.elementor-element-a97d94f>.elementor-element-populated>.elementor-background-overlay, .elementor-12726 .elementor-element.elementor-element-a97d94f>.elementor-background-slideshow {
+	border-radius: 50px 50px 50px 50px;
+}
+.elementor-12726 .elementor-element.elementor-element-eadd72b {
+	--spacer-size: 50px;
+}
+.elementor-12726 .elementor-element.elementor-element-4eedf06 img {
+	width: 35%;
+}
+.elementor-12726 .elementor-element.elementor-element-26cb73c {
+	text-align: center;
+}
+.elementor-12726 .elementor-element.elementor-element-26cb73c .elementor-heading-title {
+	color: #5B5B5B;
+	font-family: var( --e-global-typography-ecee8a2-font-family), Sans-serif;
+	font-size: var( --e-global-typography-ecee8a2-font-size);
+	font-weight: var( --e-global-typography-ecee8a2-font-weight);
+	line-height: var( --e-global-typography-ecee8a2-line-height);
+	letter-spacing: var( --e-global-typography-ecee8a2-letter-spacing);
+	word-spacing: var( --e-global-typography-ecee8a2-word-spacing);
+}
+.elementor-12726 .elementor-element.elementor-element-952b091 {
+	--spacer-size: 50px;
+}
+#elementor-popup-modal-12726 .dialog-message {
+	width: 421px;
+	height: auto;
+}
+#elementor-popup-modal-12726 {
+	justify-content: center;
+	align-items: center;
+	pointer-events: all;
+	display: none !important;
+	background-color: #0000007D;
+}
+#elementor-popup-modal-12726 .dialog-close-button {
+	display: flex;
+}
+#elementor-popup-modal-12726 .dialog-widget-content {
+	box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+@media(max-width:1024px) {
+	.elementor-12726 .elementor-element.elementor-element-26cb73c .elementor-heading-title {
+		font-size: var( --e-global-typography-ecee8a2-font-size);
+		line-height: var( --e-global-typography-ecee8a2-line-height);
+		letter-spacing: var( --e-global-typography-ecee8a2-letter-spacing);
+		word-spacing: var( --e-global-typography-ecee8a2-word-spacing);
+	}
+}
+@media(max-width:767px) {
+	.elementor-12726 .elementor-element.elementor-element-624bf38>.elementor-container {
+		max-width: 1261px;
+	}
+	.elementor-12726 .elementor-element.elementor-element-624bf38, .elementor-12726 .elementor-element.elementor-element-624bf38>.elementor-background-overlay {
+		border-radius: 20px 20px 20px 20px;
+	}
+	.elementor-12726 .elementor-element.elementor-element-a97d94f>.elementor-element-populated, .elementor-12726 .elementor-element.elementor-element-a97d94f>.elementor-element-populated>.elementor-background-overlay, .elementor-12726 .elementor-element.elementor-element-a97d94f>.elementor-background-slideshow {
+		border-radius: 0px 0px 0px 0px;
+	}
+	.elementor-12726 .elementor-element.elementor-element-eadd72b {
+		--spacer-size: 20px;
+	}
+	.elementor-12726 .elementor-element.elementor-element-4eedf06 img {
+		width: 64%;
+	}
+	.elementor-12726 .elementor-element.elementor-element-26cb73c .elementor-heading-title {
+		font-size: var( --e-global-typography-ecee8a2-font-size);
+		line-height: var( --e-global-typography-ecee8a2-line-height);
+		letter-spacing: var( --e-global-typography-ecee8a2-letter-spacing);
+		word-spacing: var( --e-global-typography-ecee8a2-word-spacing);
+	}
+	.elementor-12726 .elementor-element.elementor-element-952b091 {
+		--spacer-size: 20px;
+	}
+	#elementor-popup-modal-12726 .dialog-message {
+		width: 273px;
+	}
+	#elementor-popup-modal-12726 .dialog-widget-content {
+		border-radius: 30px 30px 30px 30px;
+	}
+}
